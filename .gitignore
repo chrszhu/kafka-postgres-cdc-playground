@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Environment / secrets
+.env
+.env.*
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Docker / runtime
+*.log
+docker-data/
+
+# Coverage / test
+.pytest_cache/
+htmlcov/
+coverage.xml
+
+# Node (if added later)
+node_modules/
