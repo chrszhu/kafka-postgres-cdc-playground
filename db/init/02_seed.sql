@@ -1,0 +1,2 @@
+-- Optional seed script (idempotent-ish)
+-- No extra seed data yet; placeholder for exercises.
